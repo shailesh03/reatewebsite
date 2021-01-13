@@ -1,0 +1,32 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+body{
+  font-family: 'Poppins', sans-serif;
+}
+.brandname {
+  color: #5041df !important;
+}
+.header-top-main {
+  background: #eee;
+}
+#HomeSection-1 {
+  width: 100%;
+  height: 100vh;
+  margin-top: 30px;
+}
+.btn-get-started {
+  color: #5041df;
+  border: 1px solid;
+  padding: 12px 31px;
+  border-radius: 30px;
+  letter-spacing: 1px;
+  text-decoration: none;
+}
+.btn-get-started:hover {
+  color: #fff;
+  background: #5041df;
+}
